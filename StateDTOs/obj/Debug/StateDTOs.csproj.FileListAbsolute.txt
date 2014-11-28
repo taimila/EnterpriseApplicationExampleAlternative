@@ -1,0 +1,10 @@
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExample\EnterpriseApplication\StateDTOs\bin\Debug\StateDTOs.dll
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExample\EnterpriseApplication\StateDTOs\bin\Debug\StateDTOs.pdb
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExample\EnterpriseApplication\StateDTOs\obj\Debug\StateDTOs.dll
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExample\EnterpriseApplication\StateDTOs\obj\Debug\StateDTOs.pdb
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExample\EnterpriseApplication\StateDTOs\obj\Debug\StateDTOs.csprojResolveAssemblyReference.cache
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExampleAlternative\StateDTOs\bin\Debug\StateDTOs.dll
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExampleAlternative\StateDTOs\bin\Debug\StateDTOs.pdb
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExampleAlternative\StateDTOs\obj\Debug\StateDTOs.csprojResolveAssemblyReference.cache
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExampleAlternative\StateDTOs\obj\Debug\StateDTOs.dll
+C:\Users\Lauri Taimila\Source\Repos\GitHub\EnterpriseApplicationExampleAlternative\StateDTOs\obj\Debug\StateDTOs.pdb
